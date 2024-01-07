@@ -3,7 +3,7 @@
 <h3 align="center">I am a Final Year Student, Having interest in Web Development.</h3>
 
 
-<p align="center" width:"900px" > <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="aditya2124018" /> </p>
+<p align="right" style="display:block;"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="aditya2124018" /> </p>
 
 
 
