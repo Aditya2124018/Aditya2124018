@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My Skills.**
 
-- 🌱 I’m currently learning **Computers and Tech.**
+- 🌱 I’m currently learning **.**
 
 - 🤝 I’m looking for help with **getting a full time role in Web Development.**
 
