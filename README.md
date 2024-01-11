@@ -11,7 +11,7 @@
 <p align="center"> 🌱 I’m currently learning .</p>
 <p align="center">🤝 I’m looking for help with Getting a full time role in Web Development.</p>
  <p align="center">💬 Ask me about Web Development</p>
-<p align="center">📫 How to reach me <a href="adityasri1086@gmail.com<">adityasri1086@gmail.com<</a></p>
+<p align="center">📫 How to reach me <a href="adityasri1086@gmail.com<">adityasri1086@gmail.com</a></p>
 
 
 
