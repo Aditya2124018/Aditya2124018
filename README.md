@@ -7,7 +7,7 @@
 
 
 
-- <p align="center">🔭 I’m currently working on **My Skills.**</p>
+<p align="center">- 🔭 I’m currently working on **My Skills.**</p>
 
 - 🌱 I’m currently learning **.**
 
