@@ -1,5 +1,5 @@
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html)](https://github.com/harish-sethuraman/readme-components)
 
 <h1 align="center">Hi 🤵, I'm Aditya Srivastava</h1>
 <h3 align="center">I am a Final Year Student, Having interest in Web Development.</h3>
