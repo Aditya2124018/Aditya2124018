@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 🤵, I'm Aditya Srivastava</h1>
-<h3 align="center">I am a Final Year Student, Having interest in Web Development.</h3>
+<h3 align="center">I am a Computer Application Student, Having interest in Web Development.</h3>
 
 
 <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="aditya2124018" /> </p>
